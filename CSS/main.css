@@ -1,3 +1,11 @@
 body {
     background-color: ivory;
 }
+
+p {
+    color: rgb(25, 82, 33);
+}
+
+h2 {
+    font-size: 50px;
+}
